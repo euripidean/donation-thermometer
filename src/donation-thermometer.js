@@ -1,12 +1,9 @@
 import { LitElement, css, html } from "lit";
-import litLogo from "./assets/lit.svg";
-import viteLogo from "/vite.svg";
 
 /**
  * An example element.
  *
  * @slot - This element has a slot
- * @csspart button - The button
  */
 export class DonationThermometer extends LitElement {
   static get properties() {
