@@ -10,7 +10,6 @@ export class DonationThermometer extends LitElement {
     return {
       goal: { type: Number },
       raised: { type: Number },
-      name: { type: String },
       fullStats: { type: Boolean },
     };
   }
