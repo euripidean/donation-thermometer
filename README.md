@@ -18,7 +18,7 @@ To use the component, you need to import the download the script and add it to y
 
 ## Props
 - goal :number = fundraising goal
-- amountAchieved :number = amount raised so far
+- raised :number = amount raised so far
 - fullStats :boolean = if you want to show summary of the amount raised/goal.
 The slot allows you to pass in a campaign name as an h1 tag.
 
