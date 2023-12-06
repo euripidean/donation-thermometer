@@ -1,6 +1,5 @@
 # donations-thermometer
 
-# fundraising-thermometer
 Using **Vite** and **Lit**, I created a fundraising thermometer as a web component. When I worked in non-profits, this web component would have come in handy!
 
 You can run this project by running either `npm run dev` or `npm run build`.
