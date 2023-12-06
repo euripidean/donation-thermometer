@@ -8,13 +8,13 @@ You can run this project by running either `npm run dev` or `npm run build`.
 
 This web component is for educational purposes only.
 
-**The Fundraising Thermometer component renders a graphical representation of a fundraising thermometer based on the amount you are trying to raise, and the amount you have made towards your goal so far.
+**The Donations Thermometer component renders a graphical representation of a donation thermometer based on the amount you are trying to raise, and the amount you have made towards your goal so far.
 If you have raised under 50% to your goal, the progression bar is red. If you are between 50-90% of your target, it's orange and if you are over 90% it's green.**
 
 
 
 To use the component, you need to import the download the script and add it to your project, then import using:
-`script type="module" src="/src/FundraisingThermometer.ts"></script>` in the head of your index.html.
+`script type="module" src="src/DonationThermometer.js"></script>` before the closing body tag of your index.html.
 
 ## Props
 - goal :number = fundraising goal
